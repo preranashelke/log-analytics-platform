@@ -12,7 +12,7 @@
     <modules>
         <module>common</module>
         <module>ingestion-service</module>
-        <!-- later add processor-service, query-service, common -->
+        <module>processor-service</module>
     </modules>
 
     <properties>
